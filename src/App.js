@@ -5,10 +5,11 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+      <header className = "App-header">
+        <img src={logo}  className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          <p>this a my new react app</p>
+          <h1>this is a new REact para</h1>
         </p>
         <a
           className="App-link"
