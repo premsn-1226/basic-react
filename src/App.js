@@ -12,6 +12,7 @@ function App() {
         </div>
     </Navbar>
     <Menu />
+  
     </div>
   );
 }
