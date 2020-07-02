@@ -1,0 +1,17 @@
+.text-uppercase{
+    font-size: 20px;
+}
+
+.comments-div{
+    letter-spacing: 1px;
+    margin-top: 4px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.logo{
+    margin-left: -150px;
+}
+.list-unstyled{
+    padding-left : 20px;
+}
